@@ -1,2 +1,2 @@
 # compose
-Prepare symfony website to Azure Deployment (Windows)
+Prepare symfony website for Azure Deployment (Windows)
